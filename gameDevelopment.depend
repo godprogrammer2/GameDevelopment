@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1539116966 source:/home/godprogramer/Desktop/c-c++program/programming-fundamantal/gameDevelopment/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	<Animation.h>
+
+1539092840 source:/home/godprogramer/Desktop/c-c++program/programming-fundamantal/gameDevelopment/src/GameEngine.cpp
+	"GameEngine.h"
+
+1539092840 /home/godprogramer/Desktop/c-c++program/programming-fundamantal/gameDevelopment/include/GameEngine.h
+	<string>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1539116922 source:/home/godprogramer/Desktop/c-c++program/programming-fundamantal/gameDevelopment/src/Animation.cpp
+	"Animation.h"
+
+1539116736 /home/godprogramer/Desktop/c-c++program/programming-fundamantal/gameDevelopment/include/Animation.h
+	<SFML/Graphics.hpp>
+
